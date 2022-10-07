@@ -1,0 +1,19 @@
+body{
+    background-color:pink ;
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color:purple ;
+    font-family:'Segoe UI', sans-serif ;
+    background:pink ;
+    }
+    
+    Estilizar os parágrafos
+    p{
+    color:white ;
+    font-family:sans-serif ;
+    font-size: 100;
+    background:purple ;
+    }
+    
