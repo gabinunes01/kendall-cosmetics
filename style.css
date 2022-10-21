@@ -2,7 +2,6 @@ body{
     background-color:pink ;
     }
     
-    Estilizar o título principal do seu site
      h1{
     color:purple ;
     font-family:'Segoe UI', sans-serif ;
@@ -15,5 +14,6 @@ body{
     font-family:sans-serif ;
     font-size: 100;
     background:purple ;
+
     }
     
